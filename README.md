@@ -11,7 +11,7 @@ A simple project for practicing Git and GitHub.
 ```text
 cit240-team-project/
 │
-├── .gitignore     # Specifies intentionally untracked files to ignore
+├── .gitignore     # specifies intentionally untracked files to ignore
 ├── index.html     # Main HTML document / homepage
 ├── README.md      # Project documentation and guide
 └── team.md        # Information about team members
