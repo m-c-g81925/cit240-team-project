@@ -3,12 +3,9 @@
 ## 1. Overview
 This document outlines the testing checklist and verification logs for the CIT 240 project repository. It tracks functional checks across feature branches, pull requests, and documentation files (`README.md`, `team.md`).
 
----
-
 ## 2. Test Environment
 - **Branch Tested:** `main` (post-merge of PR #2: `feature/team-profile`)
 - **Repository Baseline:** Initial CIT 240 setup
-- **Platform:** GitHub
 
 ---
 
